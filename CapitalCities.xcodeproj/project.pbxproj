@@ -13,6 +13,7 @@
 		F71129782716F431005F3190 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F71129762716F431005F3190 /* Main.storyboard */; };
 		F711297A2716F434005F3190 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F71129792716F434005F3190 /* Assets.xcassets */; };
 		F711297D2716F434005F3190 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F711297B2716F434005F3190 /* LaunchScreen.storyboard */; };
+		F71129852716FA07005F3190 /* Capital.swift in Sources */ = {isa = PBXBuildFile; fileRef = F71129842716FA07005F3190 /* Capital.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F71129792716F434005F3190 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F711297C2716F434005F3190 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F711297E2716F434005F3190 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F71129842716FA07005F3190 /* Capital.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Capital.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				F71129702716F431005F3190 /* AppDelegate.swift */,
 				F71129722716F431005F3190 /* SceneDelegate.swift */,
 				F71129742716F431005F3190 /* ViewController.swift */,
+				F71129842716FA07005F3190 /* Capital.swift */,
 				F71129762716F431005F3190 /* Main.storyboard */,
 				F71129792716F434005F3190 /* Assets.xcassets */,
 				F711297B2716F434005F3190 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				F71129752716F431005F3190 /* ViewController.swift in Sources */,
 				F71129712716F431005F3190 /* AppDelegate.swift in Sources */,
+				F71129852716FA07005F3190 /* Capital.swift in Sources */,
 				F71129732716F431005F3190 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
